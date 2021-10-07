@@ -28,5 +28,3 @@
   <img width = 700 src="images/3.jpg" /><br>
   <img width = 700 src="images/4.jpg" /><br>
 </p>
-
-****
